@@ -1,0 +1,4 @@
+body { margin: 0; background-color: #f4f4f4; }
+img { max-width: 100%; }
+button { cursor: pointer; }
+.active { border-bottom: 2px solid blue; }
